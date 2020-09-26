@@ -11,8 +11,6 @@
   <a href="https://twitter.com/xpedroleonardo"><img src="./assets/twitter.svg" width="36" title="Twitter"></a>
 </p>
 
-<br>
-
 <p><em>
 Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
 <br/>
