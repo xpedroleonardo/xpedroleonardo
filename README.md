@@ -6,9 +6,9 @@
 </div>
 <p align="center">
   <a href="mailto:xpedroleonardodev@gmail.com"><img src="./assets/gmail.svg" width="36" title="Gmail"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <a href="https://www.linkedin.com/in/pedro-leonardo-6b338519b/"><img src="./assets/linkedin.svg" width="36" title="LinkedIn"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <a href="https://www.instagram.com/xpedroleonardo"><img src="./assets/instagram.svg" width="36" title="Instagram"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <a href="https://twitter.com/xpedroleonardo"><img src="./assets/twitter.svg" width="36" title="Twitter"></a>
+  <a href="https://www.linkedin.com/in/pedro-leonardo-6b338519b/"><img src="./assets/linkedin.svg" width="36" target="_blank" title="LinkedIn"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  <a href="https://www.instagram.com/xpedroleonardo"><img src="./assets/instagram.svg" width="36" target="_blank" title="Instagram"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  <a href="https://twitter.com/xpedroleonardo"><img src="./assets/twitter.svg" width="36" target="_blank" title="Twitter"></a>
 </p>
 
 <p><em>
