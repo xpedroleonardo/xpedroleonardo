@@ -28,5 +28,5 @@ Eu sou apaixonado por tecnologia e estou sempre disposto a aprender.
 </div>
 
 <p><em>
-Abaixo tem alguns projetos que já desenvolvi, se gostar de uma ⭐️</em>
+Abaixo tem alguns projetos que já desenvolvi, se gostar dê uma ⭐️</em>
 </p>
