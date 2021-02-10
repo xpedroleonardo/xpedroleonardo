@@ -8,6 +8,6 @@
 ### About me
 I'm a FullStack Developer Jr.
 
-- Passionate about technology 💻️😍
-- Learning every day 🧠️
+- Passionate about technology  💻️😍
+- Learning every day  🧠️
 - Focused in 👨🏼‍🏫 - JavaScript and PHP.
