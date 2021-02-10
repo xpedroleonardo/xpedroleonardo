@@ -1,32 +1,13 @@
-<div align="center">
-    <img src="./assets/HelloWorld.gif">
+# Hi, I'm Pedro! 👋️
 
-## Pedro Leonardo - Desenvolvedor FullStack
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xpedroleonardo/)](https://www.linkedin.com/in/xpedroleonardo/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/xpedroleonardo)](https://twitter.com/xpedroleonardo)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-d62976?style=flat-square&labelColor=d62976&logo=instagram&logoColor=white&link=https://instagram.com/xpedroleonardo)](https://instagram.com/xpedroleonardo)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-ff0000?style=flat-square&labelColor=ff0000&logo=Gmail&logoColor=white&link=mailto:xpedroleonardodev@gmail.com)](mailto:xpedroleonardodev@gmail.com)
 
-</div>
-<p align="center">
-  <a href="mailto:xpedroleonardodev@gmail.com"><img src="./assets/gmail.svg" width="36" title="Gmail"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <a href="https://www.linkedin.com/in/xpedroleonardo/" target="_blank"><img src="./assets/linkedin.svg" width="36" title="LinkedIn"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <a href="https://www.instagram.com/xpedroleonardo" target="_blank"><img src="./assets/instagram.svg" width="36" title="Instagram"></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <a href="https://twitter.com/xpedroleonardo" target="_blank"><img src="./assets/twitter.svg" width="36" title="Twitter"></a>
-</p>
+### About me
+I'm a FullStack Developer Jr.
 
-<p><em>
-Entusiasta das melhores tecnologias de desenvolvimento web e mobile.
-<br/>
-Eu sou apaixonado por tecnologia e estou sempre disposto a aprender.
-<br/><em>
-</p>
-
-<div align="center">
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xpedroleonardo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide=contribs,prs) -->
-
-</div>
-
-<p><em>
-Abaixo tem alguns projetos que já desenvolvi, se gostar dê uma ⭐️</em>
-</p>
+- Passionate about technology 💻️😍
+- Learning every day 🧠️
+- Focused in 👨🏼‍🏫 - JavaScript and PHP.
