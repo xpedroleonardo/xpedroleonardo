@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ff0000?style=flat-square&labelColor=ff0000&logo=Gmail&logoColor=white&link=mailto:xpedroleonardodev@gmail.com)](mailto:xpedroleonardodev@gmail.com)
 
 ### About me
-I'm a FullStack Developer Jr.
+I'm a FullStack Developer
 
 - Passionate about technology  💻️😍
 - Learning every day  🧠️
