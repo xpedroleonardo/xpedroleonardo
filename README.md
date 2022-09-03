@@ -6,8 +6,6 @@ Hi, I'm Pedro 👋️
 
 [<img title="LinkedIn" draggable="false" width="54" src="icons/social/linkedin.svg">](https://www.linkedin.com/in/xpedroleonardo/)
 [<img title="Twitter" draggable="false" width="54" src="icons/social/twitter.svg">](https://twitter.com/xpedroleonardo)
-[<img title="Spotify" draggable="false" width="54" src="icons/social/spotify.svg">](https://open.spotify.com/user/qsgunyaeuj7sv914as1xdez4i?si=HiDh6b-iQqaxbDAZoSY53g&utm_source=whatsapp&dl_branch=1)
-[<img title="Instagram" draggable="false" width="54" src="icons/social/instagram.svg">](https://instagram.com/xpedroleonardo)
 [<img title="Gmail" draggable="false" width="54" src="icons/social/gmail.svg">](mailto:xpedroleonardodev@gmail.com)
 [<img title="Whatsapp" draggable="false" width="54" src="icons/social/whatsapp.svg">](https://api.whatsapp.com/send?phone=5511940462812)
 
