@@ -4,18 +4,11 @@
 Oi, eu sou o Pedro 👋️
 
 Sou um desenvolvedor fullstack, apaixonado por tecnologia e estou sempre procurando aprender e desenvolver novos projetos 🚀
-
 Abaixo tem algumas redes onde podem me encontrar:
 
 </h4>
 
 [<img title="LinkedIn" draggable="false" width="54" src="icons/social/linkedin.svg">](https://www.linkedin.com/in/xpedroleonardo/)
-[<img title="Twitter" draggable="false" width="54" src="icons/social/twitter.svg">](https://twitter.com/xpedroleonardo)
-[<img title="Gmail" draggable="false" width="54" src="icons/social/gmail.svg">](mailto:xpedroleonardodev@gmail.com)
-[<img title="Instagram" draggable="false" width="54" src="icons/social/instagram.svg">](https://instagram.com/xpedroleonardo)
-[<img title="Whatsapp" draggable="false" width="54" src="icons/social/whatsapp.svg">](https://api.whatsapp.com/send?phone=5511940462812)
-[<img title="Spotify" draggable="false" width="54" src="icons/social/spotify.svg">](https://open.spotify.com/user/qsgunyaeuj7sv914as1xdez4i)
-
 
 <h4> E aqui tem algumas linguagens que utilizei nos projetos do meu perfil:</h4>
 
